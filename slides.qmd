@@ -1215,6 +1215,14 @@ Add a `_metadata.yml` file to the `posts` directory of your website and update t
 ```
 :::
 
+## Links for reviewing tutorial materials
+
+- Slides: <https://bit.ly/quarto-pydata>
+  - If you're interested, source code for slides: <https://github.com/mine-cetinkaya-rundel/quarto-pydata-slides>
+- Starter repo: <https://github.com/mine-cetinkaya-rundel/quarto-pydata-website>
+- Complete repo: <https://github.com/mine-cetinkaya-rundel/quarto-pydata-website-completed>
+  - Published website: <https://mine-cetinkaya-rundel.github.io/quarto-pydata-website-completed> 
+
 ##  {menu="thank you" background-image="images/thank-you.png"}
 
 ::: huge-hand
